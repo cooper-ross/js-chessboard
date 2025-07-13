@@ -3,7 +3,7 @@
 An advanced, dependency-free, and customizable chessboard component for modern web applications.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8b4abd88-9296-4d4c-a046-f1eecd51a5fa" alt="js-chessboard in action" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/89408e42-736c-41c3-9862-1e0da8bbb0b0" alt="js-chessboard in action" width="100%"/>
 </div>
 
 ## Features
